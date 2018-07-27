@@ -30,6 +30,7 @@
         {
             this.numericUpDown1 = new System.Windows.Forms.NumericUpDown();
             this.btnChoosePicture = new System.Windows.Forms.Button();
+            this.chkWithMakro = new System.Windows.Forms.CheckBox();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -61,11 +62,22 @@
             this.btnChoosePicture.UseVisualStyleBackColor = true;
             this.btnChoosePicture.Click += new System.EventHandler(this.btnChoosePicture_Click);
             // 
+            // chkWithMakro
+            // 
+            this.chkWithMakro.AutoSize = true;
+            this.chkWithMakro.Location = new System.Drawing.Point(12, 67);
+            this.chkWithMakro.Name = "chkWithMakro";
+            this.chkWithMakro.Size = new System.Drawing.Size(87, 17);
+            this.chkWithMakro.TabIndex = 2;
+            this.chkWithMakro.Text = "With Makkro";
+            this.chkWithMakro.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(147, 72);
+            this.ClientSize = new System.Drawing.Size(147, 103);
+            this.Controls.Add(this.chkWithMakro);
             this.Controls.Add(this.btnChoosePicture);
             this.Controls.Add(this.numericUpDown1);
             this.Name = "Form1";
@@ -73,6 +85,7 @@
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -80,6 +93,7 @@
 
         private System.Windows.Forms.NumericUpDown numericUpDown1;
         private System.Windows.Forms.Button btnChoosePicture;
+        private System.Windows.Forms.CheckBox chkWithMakro;
     }
 }
 
