@@ -1,0 +1,15 @@
+C:\Users\Kenan\Documents\GitHub\PictureToExcelCell\PictureToExcelCell\bin\Debug\PictureToExcelCell.exe.config
+C:\Users\Kenan\Documents\GitHub\PictureToExcelCell\PictureToExcelCell\bin\Debug\PictureToExcelCell.exe
+C:\Users\Kenan\Documents\GitHub\PictureToExcelCell\PictureToExcelCell\bin\Debug\PictureToExcelCell.pdb
+C:\Users\Kenan\Documents\GitHub\PictureToExcelCell\PictureToExcelCell\obj\Debug\PictureToExcelCell.csprojAssemblyReference.cache
+C:\Users\Kenan\Documents\GitHub\PictureToExcelCell\PictureToExcelCell\obj\Debug\PictureToExcelCell.Form1.resources
+C:\Users\Kenan\Documents\GitHub\PictureToExcelCell\PictureToExcelCell\obj\Debug\PictureToExcelCell.Properties.Resources.resources
+C:\Users\Kenan\Documents\GitHub\PictureToExcelCell\PictureToExcelCell\obj\Debug\PictureToExcelCell.csproj.GenerateResource.cache
+C:\Users\Kenan\Documents\GitHub\PictureToExcelCell\PictureToExcelCell\obj\Debug\PictureToExcelCell.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\Documents\GitHub\PictureToExcelCell\PictureToExcelCell\obj\Debug\PictureToExcelCell.exe
+C:\Users\Kenan\Documents\GitHub\PictureToExcelCell\PictureToExcelCell\obj\Debug\PictureToExcelCell.pdb
+C:\Users\Kenan\Documents\GitHub\PictureToExcelCell\PictureToExcelCell\bin\Debug\EntityFramework.dll
+C:\Users\Kenan\Documents\GitHub\PictureToExcelCell\PictureToExcelCell\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kenan\Documents\GitHub\PictureToExcelCell\PictureToExcelCell\bin\Debug\EntityFramework.xml
+C:\Users\Kenan\Documents\GitHub\PictureToExcelCell\PictureToExcelCell\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kenan\Documents\GitHub\PictureToExcelCell\PictureToExcelCell\obj\Debug\PictureToExcelCell.csproj.CopyComplete
