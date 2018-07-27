@@ -117,7 +117,7 @@ namespace PictureToExcelCell
 
                     Color pixel = img.GetPixel(width, hieght);
 
-                    if (pixel.GetBrightness() < 1)
+                    if (pixel.GetBrightness() < 0.8)
                     {
                         keyboard.ModifiedKeyStroke(VirtualKeyCode.CONTROL, VirtualKeyCode.VK_V);
                         Thread.Sleep(100);
